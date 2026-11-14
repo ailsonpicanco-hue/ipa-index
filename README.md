@@ -1,5 +1,7 @@
 # IPA – Water Potability Index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24230872.svg)](https://doi.org/10.5281/zenodo.24230872)
+
 Reference implementation, data and reproduction scripts for:
 
 > Ribeiro, H.M.C., Picanço, A.R.S., et al. *A water potability index for the Brazilian Amazon based on a goal programming model.* Submitted to the *Journal of Environmental Management* (2026).
@@ -60,4 +62,4 @@ The pseudocode of the method (Algorithms S1–S3) is in the Supplementary materi
 
 ## Licence
 
-Code: MIT. Data: CC BY 4.0. Please cite the article and this repository (see `CITATION.cff`).
+Code: MIT. Data: CC BY 4.0. Please cite the article and this repository: https://doi.org/10.5281/zenodo.24230872 (all versions; v1.0.0: https://doi.org/10.5281/zenodo.24230873). See `CITATION.cff`.

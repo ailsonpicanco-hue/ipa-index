@@ -3,6 +3,8 @@ message: "If you use this software or data, please cite the article and this rep
 title: "IPA – Water Potability Index: reference implementation, data and reproduction scripts"
 version: 1.0.0
 license: MIT
+doi: 10.5281/zenodo.24230872
+repository-code: https://github.com/ailsonpicanco-hue/ipa-index
 authors:
   - family-names: Ribeiro
     given-names: Hebe M. C.
