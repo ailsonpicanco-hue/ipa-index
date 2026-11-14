@@ -1,0 +1,20 @@
+{
+ "database": "Semantic Scholar Academic Graph, bulk search API",
+ "date": "2026-11-14",
+ "years": "2000-2026",
+ "Q1_core": {
+  "query": "(\"water quality index\" | \"drinking water quality index\" | \"potability index\" | \"groundwater quality index\") + (decision | \"decision-making\" | \"decision support\" | policy | policymakers)",
+  "total": 1423,
+  "retrieved": 1423
+ },
+ "Q2_methods": {
+  "query": "(\"water quality index\" | \"drinking water quality index\" | \"groundwater quality index\") + (\"goal programming\" | entropy | AHP | fuzzy | \"multi-criteria\" | multicriteria | weighting | aggregation)",
+  "total": 1113,
+  "retrieved": 1113
+ },
+ "Q3_brazil": {
+  "query": "(\"water quality index\" | \"groundwater quality index\" | \"drinking water quality index\" | \"indice de qualidade\") + (Brazil | Brasil | Amazon | Amazonia)",
+  "total": 712,
+  "retrieved": 712
+ }
+}

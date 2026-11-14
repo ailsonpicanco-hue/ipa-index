@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and this repository."
+title: "IPA – Water Potability Index: reference implementation, data and reproduction scripts"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Ribeiro
+    given-names: Hebe M. C.
+  - family-names: Picanço
+    given-names: Ailson R. S.
+  - family-names: Piratoba Morales
+    given-names: Gundisalvo
+  - family-names: Pantoja
+    given-names: Danielle N. S. M.
+  - family-names: de Oliveira
+    given-names: Renata M. S.
+  - family-names: de Melo Filho
+    given-names: Djunio R.
+  - family-names: Bezerra
+    given-names: Fausto C. M.
+  - family-names: Carr
+    given-names: Caroline Nunes
+  - family-names: da Silva
+    given-names: Ryan D.
+  - family-names: Lima
+    given-names: Antonio C. J. S.
+  - family-names: de Almeida
+    given-names: Tayany C.
+  - family-names: Marçal
+    given-names: Cleiton S.
+  - family-names: Freitas
+    given-names: Rômulo C.
+  - family-names: Anaisse
+    given-names: Clarissa C. R.
+preferred-citation:
+  type: article
+  title: "A water potability index for the Brazilian Amazon based on a goal programming model"
+  journal: "Journal of Environmental Management"
+  year: 2026
+  status: submitted

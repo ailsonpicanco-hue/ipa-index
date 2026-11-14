@@ -1,0 +1,14 @@
+{
+ "identified": 3248,
+ "duplicates_removed": 360,
+ "no_doi_removed": 417,
+ "dup_doi_removed": 21,
+ "screened": 2450,
+ "excluded_title_abstract_scope": 531,
+ "assessed_eligibility": 1919,
+ "eligible_auto": 407,
+ "excluded_eligibility_tightened": 2,
+ "crossref_failed": 1,
+ "included": 370,
+ "excluded_irrigation_drastic_soil": 34
+}
